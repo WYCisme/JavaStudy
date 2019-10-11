@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ab3aa18-9826-4292-b364-d8d8155c9b10" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PzK2yqwFRvqLvA9YyNmU8TTbkn" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javastudy" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaStudy/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35897437" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.wyc" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wyc.RpcClient" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppMain">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppMain" />
+      <module name="javaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PaperTest.Main" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PaperTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyc.rpcService.RpcServer" />
+      <module name="RpcServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyc.rpcService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcServiceStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyc.rpcService.RpcServiceStarter" />
+      <module name="RpcServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyc.rpcService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leecode.Solution" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.RpcServer" />
+      <item itemvalue="Application.RpcServiceStarter" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AppMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RpcServiceStarter" />
+        <item itemvalue="Application.RpcServer" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ab3aa18-9826-4292-b364-d8d8155c9b10" name="Default" comment="" />
+      <created>1561046805372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561046805372</updated>
+      <workItem from="1561046811935" duration="89000" />
+      <workItem from="1561046980416" duration="786000" />
+      <workItem from="1561047799388" duration="250000" />
+      <workItem from="1561081508492" duration="318000" />
+      <workItem from="1561106370195" duration="717000" />
+      <workItem from="1564920358493" duration="3189000" />
+      <workItem from="1566871294200" duration="3438000" />
+      <workItem from="1567308402384" duration="4231000" />
+      <workItem from="1567355421393" duration="9000" />
+      <workItem from="1567387647847" duration="1202000" />
+      <workItem from="1567394616037" duration="3914000" />
+      <workItem from="1567515789136" duration="607000" />
+      <workItem from="1567588826109" duration="4146000" />
+      <workItem from="1568096500417" duration="2001000" />
+      <workItem from="1568190369194" duration="2735000" />
+      <workItem from="1568254572902" duration="3041000" />
+      <workItem from="1568445794365" duration="30000" />
+      <workItem from="1568702809610" duration="4542000" />
+      <workItem from="1568725010432" duration="5321000" />
+      <workItem from="1568879591333" duration="1652000" />
+      <workItem from="1568881250945" duration="2025000" />
+      <workItem from="1568883835495" duration="5539000" />
+      <workItem from="1568976274826" duration="11575000" />
+      <workItem from="1569324335627" duration="10350000" />
+      <workItem from="1569587192658" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com.wyc/TestMain.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaStudy/src/main/java/HttpClientReptile.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaStudy/src/main/java/Leecode/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RpcServer/src/main/java/com/wyc/rpcService/RpcServer.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RpcServer/src/main/java/com/wyc/rpcService/RpcServer.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java</url>
+          <line>296</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaStudy$ReviewEncourage.ic" NAME="ReviewEncourage Coverage Results" MODIFIED="1568192843109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Threader.*</FILTER>
+    </SUITE>
+  </component>
+</project>
