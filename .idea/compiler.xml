@@ -20,8 +20,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaStudy" target="7" />
+      <module name="javaStudy" target="8" />
       <module name="RpcClient" target="1.5" />
+      <module name="RpcClient (1) (com.wyc)" target="1.5" />
       <module name="RpcServer" target="1.5" />
     </bytecodeTargetLevel>
   </component>
