@@ -1,5 +1,6 @@
 import Collection.MyHashSet;
 import PaperTest.Main;
+import org.junit.Test;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -14,7 +15,8 @@ import java.util.TreeMap;
  */
 public class AppMain {
 
-    public static void main(String[] args) {
+    @Test
+    public void test() {
 //        System.out.println("Hello World!");
 //        String myName = "小明";
 //        Main ma=new Main();
@@ -39,8 +41,9 @@ public class AppMain {
 
         Map<String ,String > mapTree=new TreeMap<>();
         mapTree.put("01","jjjj");
-        mapTree.put("02","jjjj");
-
+        mapTree.put(str,"jjjj");
+        mapTree.put(str,"jjj2j");
+        System.out.printf(mapTree.toString());
     }
 
 

@@ -3,25 +3,52 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:RpcServer" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ab3aa18-9826-4292-b364-d8d8155c9b10" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_39_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_39_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1ab3aa18-9826-4292-b364-d8d8155c9b10" name="Default" comment=",,,">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RpcServer/target/classes/META-INF/RpcServer.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaStudy/src/main/java/Collection/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudy/src/main/java/Collection/TestSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaStudy/src/main/java/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudy/src/main/java/AppMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaStudy/target/classes/AppMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaStudy/target/classes/AppMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaStudy/target/classes/Collection/TestSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaStudy/target/classes/META-INF/javaStudy.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +89,7 @@
     <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javastudy" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/javaStudy/pom.xml" />
@@ -80,26 +108,13 @@
       <recent name="com.wyc.RpcClient" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSet.test">
+  <component name="RunManager" selected="JUnit.AppMain.test">
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort.MergeSort" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyc.rpcService.RpcServer" />
-      <module name="RpcServer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyc.rpcService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,15 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="AppMain.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaStudy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppMain" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,14 +175,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.RpcServer" />
+      <item itemvalue="JUnit.TestSet.test" />
+      <item itemvalue="JUnit.AppMain.test" />
       <item itemvalue="应用程序.RpcServiceStarter" />
       <item itemvalue="应用程序.Solution" />
       <item itemvalue="应用程序.MergeSort" />
-      <item itemvalue="JUnit.TestSet.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppMain.test" />
         <item itemvalue="JUnit.TestSet.test" />
         <item itemvalue="应用程序.MergeSort" />
       </list>
@@ -214,42 +227,77 @@
       <workItem from="1569587192658" duration="24000" />
       <workItem from="1598344829430" duration="123000" />
       <workItem from="1598344971247" duration="2563000" />
-      <workItem from="1598416620448" duration="987000" />
+      <workItem from="1598416620448" duration="2034000" />
     </task>
+    <task id="LOCAL-00001" summary=",,,">
+      <created>1598417797542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598417797542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=",,," />
+    <option name="LAST_COMMIT_MESSAGE" value=",,," />
   </component>
   <component name="WindowStateProjectService">
     <state x="503" y="232" key="#Notifications" timestamp="1598345089372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="232" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1598345089372" />
+    <state x="403" y="0" key="CommitChangelistDialog2" timestamp="1598417795822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598417795822" />
     <state x="454" y="150" key="FileChooserDialogImpl" timestamp="1598417206006">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="150" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598417206006" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1598417373669">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1598418374458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598417373669" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1598417373669">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598418374458" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1598418374458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598417373669" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1598417373668">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598418374458" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1598418374458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598417373668" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1598417373669">
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598418374458" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1598418374458">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598417373669" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598418374458" />
     <state x="228" y="36" key="SettingsEditor" timestamp="1598417273503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="228" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598417273503" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1598417804794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598417804794" />
+    <state x="590" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598418669716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598418669716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
